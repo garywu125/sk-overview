@@ -4,6 +4,8 @@ A demo app to display user profiles, built with SvelteKit.
 
 ## Requirements
 
+ha ha  哈哈
+
 * [Node.js](http://nodejs.org/)
 
 ## Installation Steps
